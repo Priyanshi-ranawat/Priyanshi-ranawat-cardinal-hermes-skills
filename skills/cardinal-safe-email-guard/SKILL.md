@@ -1,7 +1,7 @@
 ---
 name: cardinal-safe-email-guard
 description: Safely review synthetic email, isolate prompt injection, summarize facts, and draft replies without sending.
-version: 1.0.0
+version: 1.0.1
 author: Priyanshi Ranawat
 metadata:
   hermes:
